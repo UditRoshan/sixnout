@@ -215,9 +215,6 @@ section#sec2 {
     font-size: 5rem;
     font-family: var(--secondaryFont);
     color: grey;
-    position: absolute;
-    bottom: 30%;
-    right: 5%;
     opacity: 1;
 }
 
